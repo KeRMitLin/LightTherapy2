@@ -46,7 +46,7 @@ public class MainActivity extends BaseActivity {
     }
 
     public void initializeScreen() {
-        Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
-        setSupportActionBar(toolbar);
+//        Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
+//        setSupportActionBar(toolbar);
     }
 }
